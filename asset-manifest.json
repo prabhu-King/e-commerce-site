@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/e-commerce-site/static/css/main.ddd71b06.css",
+    "main.js": "/e-commerce-site/static/js/main.540bedf1.js",
+    "static/js/787.ab2efb7a.chunk.js": "/e-commerce-site/static/js/787.ab2efb7a.chunk.js",
+    "static/media/Full top.jpg": "/e-commerce-site/static/media/Full top.05dbe23a57d4bd59c141.jpg",
+    "static/media/netsute.jpg": "/e-commerce-site/static/media/netsute.29fdb25e519a65412d9e.jpg",
+    "static/media/Prestige Branded Shirt-2.jpg": "/e-commerce-site/static/media/Prestige Branded Shirt-2.acee033b352c3dc3f119.jpg",
+    "static/media/Girls Medi.jpg": "/e-commerce-site/static/media/Girls Medi.07d73cf2f0d50d94596b.jpg",
+    "static/media/Branded Shirt-1.jpg": "/e-commerce-site/static/media/Branded Shirt-1.e38a68cc0a7c5e8b2c48.jpg",
+    "static/media/Shirt models.jpg": "/e-commerce-site/static/media/Shirt models.f77b46ae53a32aeee9e4.jpg",
+    "static/media/E-Commerce-Website.png": "/e-commerce-site/static/media/E-Commerce-Website.7ca022243db0cbcf901f.png",
+    "static/media/Chudi.webp": "/e-commerce-site/static/media/Chudi.43d95a836d771674d347.webp",
+    "static/media/gawn-2.jpg": "/e-commerce-site/static/media/gawn-2.feca84c01c8de0d56f23.jpg",
+    "static/media/Checked Shirt.jpg": "/e-commerce-site/static/media/Checked Shirt.8787a74e50e52364ef9c.jpg",
+    "static/media/Formal Shirt.webp": "/e-commerce-site/static/media/Formal Shirt.8587d93f5566f02c4a4a.webp",
+    "index.html": "/e-commerce-site/index.html",
+    "main.ddd71b06.css.map": "/e-commerce-site/static/css/main.ddd71b06.css.map",
+    "main.540bedf1.js.map": "/e-commerce-site/static/js/main.540bedf1.js.map",
+    "787.ab2efb7a.chunk.js.map": "/e-commerce-site/static/js/787.ab2efb7a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ddd71b06.css",
+    "static/js/main.540bedf1.js"
+  ]
+}
